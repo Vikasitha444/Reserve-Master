@@ -64,6 +64,10 @@ Our application leverages cutting-edge technologies to deliver a robust and scal
 ## 📷 Application Preview
 
 ![Screenshot of the system](Screenshots/ss%2001.PNG)
+![Screenshot of the system](Screenshots/ss%2002.PNG)
+![Screenshot of the system](Screenshots/ss%2003.PNG)
+![Screenshot of the system](Screenshots/ss%2004.PNG)
+![Screenshot of the system](Screenshots/ss%2005.PNG)
 ## 🚀 Getting Started
 
 ### Prerequisites
