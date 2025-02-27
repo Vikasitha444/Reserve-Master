@@ -63,10 +63,7 @@ Our application leverages cutting-edge technologies to deliver a robust and scal
 
 ## 📷 Application Preview
 
-<div align="center">
-  <i>Screenshots showcasing key features of the application will be displayed here</i>
-</div>
-
+![Screenshot of the system](Screenshots/ss%2001.PNG)
 ## 🚀 Getting Started
 
 ### Prerequisites
